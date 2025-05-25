@@ -2,7 +2,7 @@
   "name": "nike",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://muhammadwaqas1234.github.io/Nike-Shop/"
+  "homepage": "https://muhammadwaqas1234.github.io/Nike-Shop/",
 
   "type": "module",
   "scripts": {
