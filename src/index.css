@@ -1,0 +1,3 @@
+html {
+  scroll-behavior: auto; /* Don't force override if react-scroll is used */
+}
